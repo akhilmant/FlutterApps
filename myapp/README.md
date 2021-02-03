@@ -1,6 +1,6 @@
-# myapp
+# RESTAURANT MENU
 
-A new Flutter project.
+A SIMPLE RESTAURANT MENU.
 
 ## Getting Started
 
